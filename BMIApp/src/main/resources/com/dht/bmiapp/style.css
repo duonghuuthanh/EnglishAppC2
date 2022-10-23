@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 23, 2022, 10:45:06 AM
+    Author     : admin
+*/
+
+* {
+    -fx-font-family: Tahoma;
+}
+
+GridPane {
+    -fx-background-color: lightblue;
+    -fx-padding: 10;
+    -fx-hgap: 5;
+    -fx-vgap: 5;
+}
+
+Button {
+    -fx-background-color: darkblue;
+    -fx-text-fill: white;
+}
+
+Text.Subject {
+    -fx-font-size: 40;
+    -fx-font-weight: bold;
+    -fx-fill: gold;
+    -fx-stroke: red;
+    -fx-stroke-width: 3;
+}
