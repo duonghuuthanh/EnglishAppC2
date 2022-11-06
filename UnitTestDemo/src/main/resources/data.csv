@@ -1,0 +1,4 @@
+x,n,expected,message
+2,3,8,2^3 error
+-2,3,-8,-2^3 error
+-2,4,16,-2^4 error
